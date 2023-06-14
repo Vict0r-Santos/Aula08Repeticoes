@@ -1,0 +1,7 @@
+C:\Users\victor.gssilva9\source\repos\Aula08Loop\Aula08Loop\bin\Debug\Aula08Loop.exe.config
+C:\Users\victor.gssilva9\source\repos\Aula08Loop\Aula08Loop\bin\Debug\Aula08Loop.exe
+C:\Users\victor.gssilva9\source\repos\Aula08Loop\Aula08Loop\bin\Debug\Aula08Loop.pdb
+C:\Users\victor.gssilva9\source\repos\Aula08Loop\Aula08Loop\obj\Debug\Aula08Loop.csproj.CoreCompileInputs.cache
+C:\Users\victor.gssilva9\source\repos\Aula08Loop\Aula08Loop\obj\Debug\Aula08Loop.exe
+C:\Users\victor.gssilva9\source\repos\Aula08Loop\Aula08Loop\obj\Debug\Aula08Loop.pdb
+C:\Users\victor.gssilva9\source\repos\Aula08Loop\Aula08Loop\obj\Debug\Aula08Loop.csproj.AssemblyReference.cache
